@@ -2,3 +2,20 @@ body {
 	padding: 0;
 	margin: 0;
 }
+
+.header {
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.5);	
+}
+.header ul {
+	list-style: none;
+	display: flex;
+	padding: 0;
+	margin: 0;
+}
+.header ul li {
+	margin: 0 10px;
+	padding: 15px 0;
+}
+.header ul li a { 
+	text-decoration: none;
+}
